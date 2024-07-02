@@ -1,0 +1,2 @@
+source_table : /hdfs/source_table
+dest_table : /azure/dest_table
